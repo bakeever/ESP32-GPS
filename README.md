@@ -1,2 +1,4 @@
 # ESP32-GPS
-An ESP32 based GPS project that incorporates C++, OLED screen and a GPS module.
+/  It is a GPS tracker that uses an OLED module & a GPS module.
+/  Utilizing TinyGPS++ to parse NEMA data from the GPS module to display lat, long
+/  & number of satellites connected for easy location tracking. 
